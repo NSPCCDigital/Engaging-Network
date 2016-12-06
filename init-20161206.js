@@ -13,7 +13,7 @@
 			'wide': { range: '-1680', href: 'https://aaf1a18515da0e792f78-c27fdabe952dfc357fe25ebf5c8897ee.ssl.cf5.rackcdn.com/1884/style-wide-20160525.css?v=1464177721000', containers: 1200, grid: { gutters: 40 } },
 			'normal': { range: '-1280', href: 'https://aaf1a18515da0e792f78-c27fdabe952dfc357fe25ebf5c8897ee.ssl.cf5.rackcdn.com/1884/style-normal-20160525.css?v=1464177716000', containers: 960, grid: { gutters: 30 } },
 			'narrow': { range: '-1000', href: 'https://aaf1a18515da0e792f78-c27fdabe952dfc357fe25ebf5c8897ee.ssl.cf5.rackcdn.com/1884/style-narrow-20160525.css?v=1464177714000', containers: '100%!', grid: { gutters: 25, collapse: true } },
-			'mobile': { range: '-736', href: 'https://raw.githubusercontent.com/NSPCCDigital/Engaging-Network/20161201-The-Sun-Online-Bullying/mobile-style-20161206.css', grid: { gutters: 20 }, viewport: { scalable: false } }
+			'mobile': { range: '-736', href: 'https://rawgit.com/NSPCCDigital/Engaging-Network/20161201-The-Sun-Online-Bullying/mobile-style-20161206.css', grid: { gutters: 20 }, viewport: { scalable: false } }
 		}
 	});
 
