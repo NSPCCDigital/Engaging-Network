@@ -1,0 +1,224 @@
+/*
+	Tessellate by HTML5 UP
+	html5up.net | @n33co
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+*/
+
+/*********************************************************************************/
+/* Basic                                                                         */
+/*********************************************************************************/
+
+	body,input,textarea,select
+	{
+		font-size: 11pt;
+	}
+
+	/* Sections/Article */
+
+		section,
+		article,
+		.row > section,
+		.row > article
+		{
+			margin: 0 0 1.5em 0 !important;
+		}
+
+	/* Button */
+
+		.button
+		{
+			padding-left: 0;
+			padding-right: 0;
+			width: 100%;
+			max-width: 300px;
+		}
+
+	/* List */
+
+		ul.icons
+		{
+		}	
+		
+			ul.icons li
+			{
+				padding-left: 0.35em;
+			}
+
+		ul.actions
+		{
+		}
+
+			ul.actions li
+			{
+				display: block;
+				margin: 1em 0 1em 0;
+			}
+	
+		ul.menu
+		{
+		}
+
+			ul.menu li
+			{
+				border: 0;
+				padding: 0;
+				display: block;
+				margin: 1em 0 1em 0;
+			}
+	
+
+
+/*********************************************************************************/
+/* Logo bar                                                                      */
+/*********************************************************************************/
+
+
+	  a.logo {
+		  float:none;
+		  padding-bottom: 5px;  
+	  }
+	  
+		.logo-strap
+		{
+		margin: 0;
+		overflow: hidden;
+		float: none;
+		}
+
+
+	  .strapline
+	  {
+		  width: 230px;
+		  margin-top: 0;
+	  }
+
+
+	
+/*********************************************************************************/
+/* Header                                                                        */
+/*********************************************************************************/
+
+	#header
+	{
+		margin: 0 !important;
+		padding: 21em 0 0 0;
+        background-color: #b1ddde;
+	}
+	
+    #header > header
+    {
+      
+    }
+		
+	#CTAforMobile > header	
+	{
+		padding: 0;
+	}
+		
+		
+	#CTAforMobile header h1
+	{
+		font-size: 1.5rem;
+		line-height: 1.875rem;
+		background-color: #045370;
+		color: #FFFFFF;
+		margin: 0 auto;
+		padding: 1.1rem;
+		width: 100%;
+		text-align: center;
+		font-family: 'NSPCCHeadline', san-serif;
+		font-weight: normal;
+		letter-spacing: normal;
+	}
+	
+	#CTAforMobile header
+	{
+		margin: 0;	
+	}
+	
+	a.arrow
+	{
+		background: url('https://aaf1a18515da0e792f78-c27fdabe952dfc357fe25ebf5c8897ee.ssl.cf5.rackcdn.com/1884/arrow.png') top center no-repeat; 
+		width: 67px;
+		height: 74px;
+		display: block;
+		line-height:74px;
+		padding:32px;
+		margin:	0 auto;
+		text-indent: 999999px;
+		z-index: 999999;
+		top: -12px;
+	}
+	
+	#CTAforMobile footer 
+	{
+		padding: 0;	
+	  }
+	  
+		
+	
+/*********************************************************************************/
+/* Main Sections                                                                 */
+/*********************************************************************************/
+
+	.main
+	{
+	}
+	
+		.main > header
+		{
+			padding: 1.75em 20px 1.75em 20px;
+		}
+
+			.main > header h2
+			{
+				font-size: 1.5em;
+			}
+
+		.main > .content
+		{
+			padding: 3em 20px 3em 20px;
+		}
+
+			.main > .content h3
+			{
+				font-size: 1.25em;
+			}
+			
+			
+	p.intro
+	{
+		font-size: 16px;
+		line-height: 1.75rem;
+	}
+	
+	.submitbox
+	{
+		margin: 30px 0 30px 0;
+  	}
+
+    h1 {
+        font-size: 30px;
+        line-height: 34px;
+}
+
+    span.its-time-style {
+        font-size: 30px;
+        line-height: 40px;
+    }
+	
+
+#theform {
+	padding-right: 20px;
+}
+
+	
+	#section2-desktop {
+		visibility:hidden;
+		height:0;
+	}
+	
+	#section2-mobile {
+		visibility:visible;
+		height:auto;
+	}
